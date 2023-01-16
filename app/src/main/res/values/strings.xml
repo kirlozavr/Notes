@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="button_add_notes">Добавить заметку</string>
+    <string name="button_save_notes">Сохранить</string>
+    <string name="button_delete_notes">Удалить заметку</string>
+    <string name="edit_title_notes">Заголовок заметки</string>
+    <string name="edit_text_notes">Напишите вашу заметку</string>
+</resources>
